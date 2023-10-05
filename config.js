@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ABHISHEK-SER'
 global.premium = 'true'
-global.packname = 'ABHISHEK-SER🎯ABHISHEK-SURESH☘️' 
-global.author = 'ABHISHEK SURESH' 
+global.packname = 'Tasu☘️' 
+global.author = 'Tanmay' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
